@@ -1,0 +1,7 @@
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\bin\Debug\OlymicShootingGamems.exe.config
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\bin\Debug\OlymicShootingGamems.exe
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\bin\Debug\OlymicShootingGamems.pdb
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\obj\Debug\OlymicShootingGamems.csproj.AssemblyReference.cache
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\obj\Debug\OlymicShootingGamems.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\obj\Debug\OlymicShootingGamems.exe
+C:\Users\Evgeniya Dorina\source\repos\OlymicShootingGamems\OlymicShootingGamems\obj\Debug\OlymicShootingGamems.pdb
